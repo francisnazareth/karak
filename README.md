@@ -23,7 +23,7 @@
 
 1. Fork the repository on GitHub to store your project files.
 
-    ![Fork the repository on GitHub](./Assets/image.png)
+    ![Fork the repository on GitHub](./Assets/fork_repo.png)
 
 2. Give a repository name and description.
 
