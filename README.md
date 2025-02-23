@@ -123,14 +123,15 @@ restaurant images should have a maximum width of 400px
 
 2. Ask Copilot to change the rating criteria of Price to Value for Money.
 
-  ```bash
-       Please change the rating criteria to "Taste, Fragrance, Ambience, Value for Money, and Overall rating"
-  ```
+<details>
+      <summary> Here is a good prompt that you can use </summary>
+
+         Please change the rating criteria to "Taste, Fragrance, Ambience, Value for Money, and Overall rating"
+ </details>
+ &nbsp;
 
 3. GitHub Copilot will generate the necessary modifications to your project files. Review and accept the changes.
 
-   ![Copilot response](./Assets/image-9.png)
-   &nbsp;
 
 4. Ask Copilot to display numerical values for the user ratings (for example, 4 out of 5).
 
@@ -161,13 +162,12 @@ restaurant images should have a maximum width of 400px
 
 7. Add social media sharing options.
 <details>
- <summary>Here is a good prompt that you can use </summary>
+     <summary>Here is a good prompt that you can use </summary>
  
- add an option to share the restaurant review and rating in Facebook, Twitter and Instagram.
+     Add an option to share the restaurant review and rating in Facebook, Twitter and Instagram.
 </details>
 &nbsp;
 
-   ![Website showin the clues location on the map](./Assets/image-17.png)
 
 ### Task 5: Show the Images of places in a Gallery View
 
