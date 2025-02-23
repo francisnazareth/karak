@@ -106,6 +106,17 @@ If the property names are not displayed, please provide the following prompt:
 The property names should be displayed
 ```
 
+If restaurant entries are not displayed in a two column format, please provide the following prompt:
+
+```bash
+The restaurant items should be displayed in a two column layout
+```
+If the images for each restaurant is too big, please provide the following prompt: 
+
+```bash
+restaurant images should have a maximum width of 400px
+```
+
 ### Task 4: Make changes to the website.
 
 1. Return to Visual Studio Code and inspect the "Working Set" panel. You should see all the newly created files alongside `karak.json`. If they are not visible, drag and drop them from the Explorer window again.
@@ -123,19 +134,16 @@ The property names should be displayed
 
 4. Ask Copilot to display numerical values for the user ratings (for example, 4 out of 5).
 
-<details>
-      <summary> Here is a good prompt that you can use </summary>
- 
+  ```bash
        Please display the rating values when user selects a rating. For example, Taste: (4/5) when user selects 4 stars.
-</details>
-&nbsp;
+  ```
 
 5. Ask Copilot to enter their feedback for restaurants.
 
 <details>
       <summary> Here is a good prompt that you can use </summary>
  
-       provide an option for users to enter their feedback as text for each karak shop, and submit the feedback and ratings.
+       Provide an option for users to enter their feedback as text for each karak shop, and submit the feedback and ratings.
 </details>
 &nbsp;
 
@@ -144,7 +152,7 @@ The property names should be displayed
 <details>
       <summary> Here is a good prompt that you can use </summary>
  
-       display a scrollable banner image in the website, using images from images/banner folder.
+       Display a scrollable banner image in the website, using images from images/banner folder. The banner image should scroll only when user clicks left or right arrows. Banner images should not scroll if the user is not clicking the arrow.
 </details>
 &nbsp;
 
