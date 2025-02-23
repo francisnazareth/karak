@@ -134,9 +134,12 @@ restaurant images should have a maximum width of 400px
 
 4. Ask Copilot to display numerical values for the user ratings (for example, 4 out of 5).
 
-  ```bash
-       Please display the rating values when user selects a rating. For example, Taste: (4/5) when user selects 4 stars.
-  ```
+<details>
+      <summary> Here is a good prompt that you can use </summary>
+
+        Please display the rating values when user selects a rating. For example, Taste: (4/5) when user selects 4 stars.
+ </details>
+ &nbsp;
 
 5. Ask Copilot to enter their feedback for restaurants.
 
@@ -156,6 +159,13 @@ restaurant images should have a maximum width of 400px
 </details>
 &nbsp;
 
+7. Add social media sharing options.
+<details>
+ <summary>Here is a good prompt that you can use </summary>
+ 
+ add an option to share the restaurant review and rating in Facebook, Twitter and Instagram.
+</details>
+&nbsp;
 
    ![Website showin the clues location on the map](./Assets/image-17.png)
 
