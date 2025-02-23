@@ -186,15 +186,15 @@ The final website may resemble the following image:
 
 1. Once you are satisfied with the changes, save the files and end your GitHub Copilot edit session by clicking the "Done" button. Commit the changes to your local repository by clicking the source control button on the left panel of VSCode and entering a commit message.
 
-   ![Commit changes](./Assets/image-10.png)
+   ![Commit changes](./Assets/commit_changes.png)
 
 2. You can also use GitHub Copilot to generate a commit message with small magic button in the message box.
 
-   ![Generate commit message](./Assets/image-11.png)
+   ![Generate commit message](./Assets/commit_message_copilot.png)
 
 3. Sync the changes to your GitHub repository
 
-   ![Push changes to GitHub](./Assets/image-12.png)
+   ![Push changes to GitHub](./Assets/sync_changes.png)
 
 ### Task 8: Share your Project
 
