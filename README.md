@@ -117,18 +117,16 @@ If the images for each restaurant is too big, please provide the following promp
 restaurant images should have a maximum width of 400px
 ```
 
-### Task 4: Make changes to the website.
+### Task 4: Make changes to the website. 
 
 1. Return to Visual Studio Code and inspect the "Working Set" panel. You should see all the newly created files alongside `karak.json`. If they are not visible, drag and drop them from the Explorer window again.
 
 2. Ask Copilot to change the rating criteria of Price to Value for Money.
-
    <details>
       <summary> Here is a good prompt that you can use </summary>
 
          Please change the rating criteria to "Taste, Fragrance, Ambience, Value for Money, and Overall rating"
  </details>
- &nbsp;
 
 GitHub Copilot will generate the necessary modifications to your project files. Review and accept the changes.
 
@@ -167,6 +165,10 @@ GitHub Copilot will generate the necessary modifications to your project files. 
 
        add a google map icon next to the restaurant name. The latitude and longitude are provided in karak.json. When the user clicks the map icon, the map with restaurant location should pop-out.
    </details>
+
+The final website may resemble the following image: 
+
+![Final web app](./Assets/final_website_2.png)
 
 
 ### Task 6: Enhance the Application with Additional Features
