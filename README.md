@@ -130,10 +130,9 @@ restaurant images should have a maximum width of 400px
  </details>
  &nbsp;
 
-3. GitHub Copilot will generate the necessary modifications to your project files. Review and accept the changes.
+GitHub Copilot will generate the necessary modifications to your project files. Review and accept the changes.
 
-
-4. Ask Copilot to display numerical values for the user ratings (for example, 4 out of 5).
+3. Ask Copilot to display numerical values for the user ratings (for example, 4 out of 5).
 
 <details>
       <summary> Here is a good prompt that you can use </summary>
@@ -142,7 +141,7 @@ restaurant images should have a maximum width of 400px
  </details>
  &nbsp;
 
-5. Ask Copilot to enter their feedback for restaurants.
+4. Ask Copilot to enter their feedback for restaurants.
 
 <details>
       <summary> Here is a good prompt that you can use </summary>
@@ -151,7 +150,7 @@ restaurant images should have a maximum width of 400px
 </details>
 &nbsp;
 
-6. Display a banner image for the website
+5. Display a banner image for the website
 
 <details>
       <summary> Here is a good prompt that you can use </summary>
@@ -160,7 +159,7 @@ restaurant images should have a maximum width of 400px
 </details>
 &nbsp;
 
-7. Add social media sharing options.
+6. Add social media sharing options.
 <details>
      <summary>Here is a good prompt that you can use </summary>
  
@@ -168,6 +167,12 @@ restaurant images should have a maximum width of 400px
 </details>
 &nbsp;
 
+7. Add geo-location features.
+   <details>
+       <summary>Here is a good prompt that you can use. </summary>
+
+       add a google map icon next to the restaurant name. The latitude and longitude are provided in karak.json. When the user clicks the map icon, the map with restaurant location should pop-out.
+   </details>
 
 ### Task 5: Show the Images of places in a Gallery View
 
