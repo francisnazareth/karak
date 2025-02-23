@@ -78,24 +78,21 @@
 
 ### Task 3: Test the Website
 
-1. Open new terminal in VSCode from the Terminal menu on the top or press ```Ctrl+Shift+` ```.
+1. If the extension "Live server" is not installed, install the extension "Live Server" in Visual Studio Code. 
 
-    ![Open terminal](./Assets/image-7.png)
+    ![Open terminal](./Assets/live_server_extension.png)
 
-2. Then type ```http-server .```  to run the game in the browser.
+2. Go back to the explorer view, right click the index.html file, and select "Open with Live Server" option. 
 
-   ![Terminal Output](./Assets/image-15.png)
+   ![Terminal Output](./Assets/open_with_live_server.png)
    &nbsp;
 
-> [!TIP]
-> http-server is a simple, zero-configuration command-line static HTTP server. It is powerful enough for production usage, but it's simple and hackable enough to be used for testing, local development and learning.
+3. Live server should automatically open your browser and display the web page.
 
-3. Open your web browser and navigate to `http://localhost:{port_number}/`. For example, if your port number is 8081, you would go to `http://localhost:8081/`.
-
-   ![Gameplay](./Assets/image-8.png)
+   ![Initial Generated Site](./Assets/initial_generated_site.png)
 
 > [!IMPORTANT]  
-> You may need to update the `script.js` or `index.html` files to resolve any issues or to enhance the game's functionality.
+> You may need to update the `script.js` or `index.html` files to resolve any issues or to enhance the site's functionality.
 
 ### Task 4: Make changes to the website.
 
