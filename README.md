@@ -31,7 +31,7 @@
 
 3. Copy the repository URL.
 
-    ![Copy the repository URL](./Assets/image-2.png)
+    ![Copy the repository URL](./Assets/copy_repo_url.png)
 
 4. Clone the repository to your local machine using VSCode. (from the Source Control view:  (CTRL + SHIFT + G)) 
 
