@@ -55,7 +55,7 @@
 
 2. Then drag and drop the karak.json file from Explorer tab to "Working Set" field on the Copilot panel.
 
-    ![Drag and Drop file to working set](./Assets/image-14.png)
+    ![Drag and Drop file to working set](./Assets/drag_and_drop_working_set.png)
 
 > [!TIP]
 > Use Copilot Edits to start an AI-powered code editing session and iterate quickly on code changes across multiple files by using natural language. Copilot Edits applies the edits directly in the editor, where you can review them in-place, with the full context of the surrounding code.
