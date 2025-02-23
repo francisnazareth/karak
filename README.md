@@ -119,11 +119,29 @@
 
 <details>
       <summary> Here is a good prompt that you can use </summary>
-   Please display the rating values when user selects a rating. For example, Taste: (4/5) when user selects 4 stars.
+ 
+       Please display the rating values when user selects a rating. For example, Taste: (4/5) when user selects 4 stars.
 </details>
 &nbsp;
 
-4. Run and test the application again. When the player enters the correct location, the game should display the location on the map. At the end of the game, all the locations should be visible on the map. If application is not working as expected, review the code and make necessary changes with the help of Copilot.
+5. Ask Copilot to enter their feedback for restaurants.
+
+<details>
+      <summary> Here is a good prompt that you can use </summary>
+ 
+       provide an option for users to enter their feedback as text for each karak shop, and submit the feedback and ratings.
+</details>
+&nbsp;
+
+6. Display a banner image for the website
+
+<details>
+      <summary> Here is a good prompt that you can use </summary>
+ 
+       display a scrollable banner image in the website, using images from images/banner folder.
+</details>
+&nbsp;
+
 
    ![Website showin the clues location on the map](./Assets/image-17.png)
 
