@@ -123,7 +123,7 @@ restaurant images should have a maximum width of 400px
 
 2. Ask Copilot to change the rating criteria of Price to Value for Money.
 
-<details>
+   <details>
       <summary> Here is a good prompt that you can use </summary>
 
          Please change the rating criteria to "Taste, Fragrance, Ambience, Value for Money, and Overall rating"
@@ -133,39 +133,33 @@ restaurant images should have a maximum width of 400px
 GitHub Copilot will generate the necessary modifications to your project files. Review and accept the changes.
 
 3. Ask Copilot to display numerical values for the user ratings (for example, 4 out of 5).
-
-<details>
+   <details>
       <summary> Here is a good prompt that you can use </summary>
 
         Please display the rating values when user selects a rating. For example, Taste: (4/5) when user selects 4 stars.
- </details>
- &nbsp;
+   </details>
 
 4. Ask Copilot to enter their feedback for restaurants.
-
-<details>
+   <details>
       <summary> Here is a good prompt that you can use </summary>
  
-       Provide an option for users to enter their feedback as text for each karak shop, and submit the feedback and ratings.
-</details>
-&nbsp;
+       Provide an option for users to enter their feedback as text for each karak shop, and submit the feedback and ratings. 
+   </details>
+
 
 5. Display a banner image for the website
-
-<details>
+   <details>
       <summary> Here is a good prompt that you can use </summary>
  
        Display a scrollable banner image in the website, using images from images/banner folder. The banner image should scroll only when user clicks left or right arrows. Banner images should not scroll if the user is not clicking the arrow.
-</details>
-&nbsp;
+   </details>
 
 6. Add social media sharing options.
-<details>
-     <summary>Here is a good prompt that you can use </summary>
+   <details>
+       <summary>Here is a good prompt that you can use </summary>
  
-     Add an option to share the restaurant review and rating in Facebook, Twitter and Instagram.
-</details>
-&nbsp;
+        Add an option to share the restaurant review and rating in Facebook, Twitter and Instagram.
+   </details>
 
 7. Add geo-location features.
    <details>
