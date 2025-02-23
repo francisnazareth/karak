@@ -51,7 +51,7 @@
 
 1. Open the Copilot Edits view from the Command Center Copilot menu or press ```Ctrl+Shift+I```
 
-    ![Open Copilot chat](./Assets/image-5.png)
+    ![Open Copilot chat](./Assets/copilot_chat.png)
 
 2. Then drag and drop the karak.json file from Explorer tab to "Working Set" field on the Copilot panel.
 
