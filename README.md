@@ -94,20 +94,27 @@
 > [!IMPORTANT]  
 > You may need to update the `script.js` or `index.html` files to resolve any issues or to enhance the site's functionality.
 
+If the stars are not clickable, please provide the following prompt:
+
+```bash
+User should be able to click on the star rating to provide the ratings.
+```
+
+If the property names are not displayed, please provide the following prompt:
+
+```bash
+The property names should be displayed
+```
+
 ### Task 4: Make changes to the website.
 
 1. Return to Visual Studio Code and inspect the "Working Set" panel. You should see all the newly created files alongside `karak.json`. If they are not visible, drag and drop them from the Explorer window again.
 
-   ![Working Set](./Assets/image-16.png)
-
 2. Ask Copilot to change the rating criteria of Price to Value for Money.
 
-   <details>
-      <summary> Here is a good prompt that you can use </summary>
-
+  ```bash
        Please change the rating criteria to "Taste, Fragrance, Ambience, Value for Money, and Overall rating"
-   </details>
-&nbsp;
+  ```
 
 3. GitHub Copilot will generate the necessary modifications to your project files. Review and accept the changes.
 
