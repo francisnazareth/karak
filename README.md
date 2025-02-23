@@ -67,14 +67,14 @@
    <details>
         <summary>Here is a good prompt that you can use.</summary>
 
-         I'm creating a website called "Find the best Karak tea" using HTML and JavaScript. The website should display various restaurant names, description and images in the HTML page. You can find the titles, descriptions and images in karak.json. Please help me generate the basic HTML, JavaScript and CSS files needed for this website in the root folder. The HTML file will include a heading, a paragraph to display description, a star based rating system for the following properties: Taste, Ambience, Price, Fragrance and Overall rating.
+         I'm creating a website called "Find the best Karak tea in Qatar" using HTML and JavaScript. The website should display various restaurant names, description and images in the HTML page. You can find the titles, descriptions and images in karak.json. Please help me generate the basic HTML, JavaScript and CSS files needed for this website in the root folder. The HTML file will include a heading, a paragraph to display description, a star based rating system for the following properties: Taste, Ambience, Price, Fragrance and Overall rating.
 
    </details>
    &nbsp;
 
 2. If everything goes well, GitHub Copilot will generate the necessary files in the "root" folder. Review the generated files and "Accept" the changes if they meet your requirements. If the generated content is not satisfactory, press "Discard" and refine your prompt to improve the results.
 
-   ![Create Workspace](./Assets/image-6.png)
+   ![Create Workspace](./Assets/copilot_generated_assets.png)
 
 ### Task 3: Test the Website
 
