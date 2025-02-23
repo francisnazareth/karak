@@ -174,35 +174,17 @@ GitHub Copilot will generate the necessary modifications to your project files. 
        add a google map icon next to the restaurant name. The latitude and longitude are provided in karak.json. When the user clicks the map icon, the map with restaurant location should pop-out.
    </details>
 
-### Task 5: Show the Images of places in a Gallery View
-
-1. Ask Copilot to add a gallery view to display images of the locations.
-
-   <details>
-      <summary> Here is a good prompt that you can use </summary>
-
-       I want to add a gallery view to my page. 
-       Whenever a user finds the right answer I want to show the image of the place in the gallery. 
-       You can find the image URLs of the locations in clues.json. 
-       Please help me to add the gallery view to the page and show the images of the places in the gallery.
-   </details>
-   &nbsp;
-2. GitHub Copilot will generate the necessary modifications to your project files. Review and accept the changes.
-3. Test the application again. When the player enters the correct location, the game should display the image of the location in the gallery view. At the end of the game, all the images should be visible in the gallery. If application is not working as expected, review the code and make necessary changes with the help of Copilot.
-
-   ![Website showing the images of the locations in the gallery](./Assets/image-18.png)
 
 ### Task 6: Enhance the Application with Additional Features
 
-1. We have incorporated the location name and a 5-star rating system for each location in the final solution. Now, it's your opportunity to showcase your creativity by adding extra features to your application. Consider the following enhancements:
+1. Now, it's your opportunity to showcase your creativity by adding extra features to your application. Consider the following enhancements:
 
-   * Add a timer to challenge players to complete the game within a certain timeframe.
-   * Enhance the user interface with animations and transitions for a more engaging experience.
-   * Include sound effects and background music to make the game more immersive.
+   * Create an REST server in Node.JS (or Python) using Copilot, that will receive a JSON payload, print the contents, and return with HTTP 200/OK status.
+   * Send the user rating and feedback (from the web page script) to the REST server.
+   * Provide social media based single-sign on options for users (for example, sign-in using outlook / facebook). 
 
 2. Use GitHub Copilot to assist you in implementing these features. Review and test the changes thoroughly to ensure they meet your requirements.
 
-   ![Enhance Application](./Assets/image-19.png)
 
 ### Task 7: Commit and Push Changes
 
