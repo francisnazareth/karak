@@ -35,13 +35,15 @@
 
 4. Clone the repository to your local machine using VSCode. (from the Source Control view:  (CTRL + SHIFT + G)) 
 
-    ![Clone the repository in VSCode](./Assets/image-3.png)
+    ![Clone the repository in VSCode](./Assets/clone_repo_vscode.png)
 
 5. Open the project in your code editor.
 
-    ![Open the project in your VSCode](./Assets/image-4.png)
+    ![Open the project in your VSCode](./Assets/open_project_vscode.png)
    
 6. If prompted to trust the authors, click on "Yes, I trust the authors".
+
+7. Inspect the contents of the file karak.json
    
 ## Development
 
