@@ -27,7 +27,7 @@
 
 2. Give a repository name and description.
 
-    ![Create a new repository scree](./Assets/image-1.png)
+    ![Create a new repository](./Assets/fork_repo_name.png)
 
 3. Copy the repository URL.
 
