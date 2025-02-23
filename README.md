@@ -205,4 +205,4 @@ The final website may resemble the following image:
 
 ## Congratulations
 
-![Congratulations](./Assets/image-13.png)
+![Congratulations](./Assets/congrats.png)
